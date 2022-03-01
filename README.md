@@ -23,4 +23,3 @@ yarn lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-https://slack.com/get-started#/workspaces?e=bi5zaG1pZHRAMmRpdC5ydQ%3D%3D&i=default&m=slack
